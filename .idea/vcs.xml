@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/clion-test2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/it25-kadai-20251104" vcs="Git" />
   </component>
 </project>

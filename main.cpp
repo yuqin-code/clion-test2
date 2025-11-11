@@ -16,7 +16,7 @@ int main() {
     //convert(???)
 
     //課題4
-    //???
+    drawTree(4);
 
     return 0;
 }
